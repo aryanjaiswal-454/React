@@ -1,10 +1,19 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-const heading = React.createElement("h1",{id:"heading"},"Hello World");
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(heading);
-console.log(heading)
 
-const jsxheading = (<h1 id="heading2"> Namaste React Heading</h1>);
-console.log(jsxheading)
-root.render(jsxheading)
+
+const Title = ()=> <h1 id="title">Namaste React</h1>
+
+const ReactComponent = ()=>(
+    <div>
+        <Title/>
+        <Title></Title>
+        {Title()}
+        {51+49}
+        <p>This is a React Component</p>
+    </div>
+)
+
+const root = ReactDOM.createRoot(document.getElementById("root"))
+
+root.render(<ReactComponent/>)
