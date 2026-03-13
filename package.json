@@ -1,0 +1,30 @@
+{
+  "name": "react-main",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanjaiswal-454/React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryanjaiswal-454/React/issues"
+  },
+  "homepage": "https://github.com/aryanjaiswal-454/React#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "browserlist": [
+    "last 4 versions"
+  ]
+}
