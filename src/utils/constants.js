@@ -1,0 +1,3 @@
+export const LOGO_URL = "https://imgs.search.brave.com/emGzckWo2-atZnney5SFe6t7F2zsIEmTLcLFkbVkGfY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20venVraXVraS96/dWtpdWtpMTgwNS96/dWtpdWtpMTgwNTAx/NzQyLzEwMTc1MTEx/NC12ZWN0b3ItZGVz/aWduLWNvb2tpbmct/bG9nby1mb29kLXBp/Y3RvZ3JhbS1jb29r/aW5nLWFic3RyYWN0/LWljb24uanBnP3Zl/cj02";
+export const IMG_CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/";
+// export   LOGO_URL;
