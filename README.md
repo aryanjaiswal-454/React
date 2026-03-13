@@ -1,1 +1,1 @@
-## Studying React
+## Studying React 🚀
